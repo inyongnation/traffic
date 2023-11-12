@@ -9,8 +9,8 @@ DEBUG = False  # set to True to enable useful console output
 #ROOT_URLS = ["https:///digg.com/"]
 
 ROOT_URLS = [
-	"https://paid2play.co/share/inyongnation3969i",
-	"https://paid2play.co/share/inyongnation6523i",
+	"https://paid2play.co/share/inyongination3969i",
+	"https://paid2play.co/share/inyongination6523i",
 	"https://paid2play.co/share/chaeriyahmaddu3270c",
 	"https://paid2play.co/share/digitalhanddrawing2582d",
 	"https://paid2play.co/share/sbp1407806115s",
